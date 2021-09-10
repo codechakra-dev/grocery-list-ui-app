@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Grocerylist</string>
+    <string name="add_to_basket">Add To Basket</string>
+    <string name="search_store">Search Store</string>
+    <string name="see_all">See all</string>
+    <string name="item_name">Item name</string>
+    <string name="_7pcs_price">7pcs,price</string>
+</resources>
